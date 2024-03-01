@@ -16,6 +16,8 @@ public class Logical {
 
         //        true   && false
         boolean a1 = 25> 10 && 1==1;
+
+        //        true   && true
         boolean a2 = 20 < 10 && 1==1;
         System.out.println(a);
         System.out.println(a1);
