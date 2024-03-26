@@ -10,5 +10,11 @@ public class String1 {
         public static String helloName (String name) {
             return "Hello" + name + "!";
         }
+    public static boolean sleepIn(boolean weekday, boolean vacation) {
+        if (!weekday || vacation) {
+            return true;
+        }
+        return false;
+    }
 
 }
