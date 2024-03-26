@@ -10,7 +10,7 @@ public class TyresMain {
         continental.LoadIndex = 615;
         continental.SpeedRating = 240;
         continental.Year = 2019;
-        System.out.println("continental");
+        System.out.println(continental);
         System.out.println(continental.Price(continental.diametr,continental.Year));
 
 
