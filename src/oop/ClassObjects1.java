@@ -4,7 +4,13 @@ public class ClassObjects1 {
 
         //OOP
         //Inheritance  --> Nasledovanie  --> nassleduyemsya ot otsa
-        //Polymorphysm  --> Rasshirenie vozmojnosti
+
+        //          Polymorphysm  --> Rasshirenie vozmojnosti
+
+        // Poly - mnogo (form)
+        // aktsent na paramentry
+        // overloading --> (parameters, parameters,.... parameters)
+        // overriding  -->
         //Abstraction  -->
         // Encapsulation -->
 
