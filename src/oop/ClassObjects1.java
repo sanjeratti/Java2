@@ -2,8 +2,8 @@ package oop;
 
 public class ClassObjects1 {
 
-        //OOP
-        //Inheritance  --> Nasledovanie  --> nassleduyemsya ot otsa
+        //                     OOP
+                                //Inheritance  --> Nasledovanie  --> nassleduyemsya ot otsa
 
         //extends
         //super
@@ -12,7 +12,7 @@ public class ClassObjects1 {
         // private  --> (getName--> getName);
 
 
-        //          Polymorphysm  --> Rasshirenie vozmojnosti
+                                //          Polymorphysm  --> Rasshirenie vozmojnosti
 
         // Poly - mnogo (form)
         // aktsent na paramentry
@@ -27,8 +27,19 @@ public class ClassObjects1 {
         // My mojem ispozlovat vse modifikatory dostupa (public, protected default private) we can use all the access modifiers
         // most of libraries are abstract
 
-        //Abstraction  -->
+                                //Abstraction  -->
+
         // Encapsulation -->
+        // access modifiers
+        // getter   | setter
+
+                                //Interfarce  --> Interface   --> assotsiruem kak pult upravlenia
+        // by default  --> po umolchaniyu  -->  abstract public
+        //  1 class mojet unasledovat` neskolko interfeisov
+        // po nemu ne sozdaem noviy object
+        // ne imeet konstruktorov
+
+        // implements
 
 
         String name = "Sanzhar";
