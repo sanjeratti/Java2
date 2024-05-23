@@ -1,6 +1,6 @@
-package codingbat;
+package codingbat.string1;
 
-public class String1 {
+public class HelloName {
     public static void main(String[] args) {
 
         System.out.println(helloName("Bob"));
